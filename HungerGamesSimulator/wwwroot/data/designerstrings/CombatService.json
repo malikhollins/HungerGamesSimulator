@@ -105,10 +105,12 @@
     "Contexts": [ "Combat" ],
     "Inputs": [
       {
-        "Type": "Tribute"
+        "Type": "Tribute",
+        "Contexts": [ "Attacker" ]
       },
       {
-        "Type": "Tribute"
+        "Type": "Tribute",
+        "Contexts": [ "Defender" ]
       }
     ],
     "Texts": [
@@ -136,10 +138,12 @@
     "Contexts": [ "Combat", "Flavor" ],
     "Inputs": [
       {
-        "Type": "Tribute"
+        "Type": "Tribute",
+        "Contexts": [ "Attacker" ]
       },
       {
-        "Type": "Tribute"
+        "Type": "Tribute",
+        "Contexts": [ "Defender" ]
       }
     ],
     "Texts": [
@@ -151,10 +155,12 @@
     "Contexts": [ "Combat", "Flavor" ],
     "Inputs": [
       {
-        "Type": "Party"
+        "Type": "Party",
+        "Contexts": [ "Attacker" ]
       },
       {
-        "Type": "Tribute"
+        "Type": "Tribute",
+        "Contexts": [ "Defender" ]
       }
     ],
     "Texts": [
@@ -166,10 +172,12 @@
     "Contexts": [ "Combat", "Flavor" ],
     "Inputs": [
       {
-        "Type": "Party"
+        "Type": "Party",
+        "Contexts": [ "Attacker" ]
       },
       {
-        "Type": "Party"
+        "Type": "Party",
+        "Contexts": [ "Defender" ]
       }
     ],
     "Texts": [
@@ -223,54 +231,6 @@
     "Texts": [
       "{input[0]} slowly stop to hear the horn, and switch locations from {input[1]}'s corpse(s).",
       "{input[0]} finsihes attacking {input[1]} when the horn sound comes on."
-    ]
-  },
-  {
-    "Contexts": [ "Combat", "Flavor" ],
-    "Inputs": [
-      {
-        "Type": "Tribute",
-        "Contexts": [ "Attacker" ]
-      },
-      {
-        "Type": "Tribute",
-        "Contexts": [ "Defender" ]
-      }
-    ],
-    "Texts": [
-      "{input[0]} pounces on {input[1]} while they walk through the forest"
-    ]
-  },
-  {
-    "Contexts": [ "Combat", "Flavor" ],
-    "Inputs": [
-      {
-        "Type": "Party",
-        "Contexts": [ "Attacker" ]
-      },
-      {
-        "Type": "Tribute",
-        "Contexts": [ "Defender" ]
-      }
-    ],
-    "Texts": [
-      "{input[0]} pounces on {input[1]} while they walk through the forest"
-    ]
-  },
-  {
-    "Contexts": [ "Combat", "Flavor" ],
-    "Inputs": [
-      {
-        "Type": "Party",
-        "Contexts": [ "Attacker" ]
-      },
-      {
-        "Type": "Party",
-        "Contexts": [ "Defender" ]
-      }
-    ],
-    "Texts": [
-      "{input[0]} pounces on {input[1]} while they walk through the forest"
     ]
   }
 ]

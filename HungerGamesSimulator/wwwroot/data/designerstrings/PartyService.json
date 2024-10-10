@@ -10,7 +10,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} convinced {input[1]} to join them to fight the hunger games"
+      "{input[0]} convinced {input[1]} to join them to fight the Hunger Games.", "{input[0]} offered a white flag to {input[1]}, to fight together in the Cornucopia for victory."
     ]
   },
   {
@@ -24,7 +24,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} and {input[1]} decided they would be better off fighting together"
+      "{input[0]} and {input[1]} decided they would be better off fighting together.", "Instead of bloodshed, {input[0]} and {input[1]} decided to share resources indefinitely."
     ]
   },
   {
@@ -38,7 +38,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} and {input[1]} join arms to take on the hunger games"
+      "{input[0]} and {input[1]} join arms to take on the Hunger Games.", "Unsure of what the future held, {input[0]} and {input[1]} decided in a truce until the end."
     ]
   },
   {
@@ -52,7 +52,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} decided to part ways with {input[1]} after they called someones mom fat"
+      "{input[0]} decided to part ways with {input[1]} after they made a joke about {input[0]}'s mom.", "{input[0]} and {input[1]} disbanded from different ideals, with an unspoken bond broken."
     ]
   }
 ]

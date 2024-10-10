@@ -7,7 +7,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} searched for tributes to join their party but couldn't find anyone"
+      "{input[0]} searched for tributes to join their party but couldn't find anyone.", "Nobody was around to join {input[0]}.", "There just wasn't anyone around to attend {input[0]} feast. (I.e, berries that were hopefully not poisonous)"
     ]
   },
   {
@@ -18,7 +18,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} searched for tributes to join their party but couldn't find anyone"
+      "{input[0]} searched for tributes to join their party but couldn't find anyone.", "Nobody was around to join {input[0]}.", "{input[0]} wondered if they should shout to have others join their party. They quickly decided that would be a bad idea."
     ]
   },
   {
@@ -29,7 +29,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} searched for tributes to attack but couldn't find anyone"
+      "{input[0]} searched for tributes to attack but couldn't find anyone.", "Nobody was around to fight {input[0]}.", "{input[0]} whispered quietly among themselves, wishing someone would fight them for a quick thrill."
     ]
   },
   {
@@ -40,7 +40,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} searched for tributes to attack but couldn't find anyone"
+      "{input[0]} searched for tributes to attack but couldn't find anyone.", "Nobody was around to fight {input[0]}.", "{input[0]} hide craftily, hoping someone would walk past that they could fight, but ultimately wasting time squating in a bush."
     ]
   }
 ]

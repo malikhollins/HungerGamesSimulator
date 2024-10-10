@@ -7,7 +7,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} ran away from the Cornucopia."
+      "{input[0]} ran away from the Cornucopia.", "{input[0]} managed to sneak away from the Cornucopia without anyone noticing."
     ]
   },
   {
@@ -18,7 +18,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} retrieved a {input[0].Weapon} without anyone glancing their way."
+      "{input[0]} retrieved a {input[0].Weapon} without anyone glancing their way.", "{input[0]} found a {input[0].Weapon} tucked away from the combat, and snatched it before someone noticed."
     ]
   },
   {
@@ -34,7 +34,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} outpaced {input[1]} for a {input[0].Weapon}."
+      "{input[0]} outpaced {input[1]} for a {input[0].Weapon}.", "{input[0]} reached the {input[0].Weapon} before {input[1]} could claim it."
     ]
   },
   {
@@ -45,7 +45,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} watched the fire shink the map."
+      "{input[0]} watched the fire shink the map.", "{input[0]} saw the embers of the fire shrink the map, greatful they were far enough away from it."
     ]
   },
   {
@@ -56,7 +56,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} successfully ran from the fire."
+      "{input[0]} successfully ran from the fire.", "{input[0]} pushed themselves to run faster, glad they had some training as they escaped the fires roar."
     ]
   },
   {
@@ -67,7 +67,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} died from the fire, getting eaten by the flames while sleeping."
+      "{input[0]} died from the fire, getting eaten by the flames while sleeping.", "{input[0]} perished in the flame, unable to run fast enough from the fire spreading."
     ]
   },
   {
@@ -78,7 +78,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} was sick of the Hunger Games, so they let the fires eat them."
+      "{input[0]} was sick of the Hunger Games, so they let the fires eat them.", "{input[0]} walked in the flames burning the map, unwilling to fight anymore."
     ]
   }
 ]

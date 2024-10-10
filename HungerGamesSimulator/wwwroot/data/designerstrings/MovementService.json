@@ -7,7 +7,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} walked a couple miles to search for tributes"
+      "{input[0]} walked a couple miles to search for tributes.", "{input[0]} snuck forward to find other tributes."
     ]
   },
   {
@@ -18,7 +18,7 @@
       }
     ],
     "Texts": [
-      "{input[0]} walked around to find a new hiding spot"
+      "{input[0]} walked around to find a new hiding spot.", "{input[0]} kept in motion to avoid getting comfortable."
     ]
   }
 ]
